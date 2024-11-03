@@ -1,0 +1,20 @@
+streamlit
+matplotlib
+seaborn
+urlextract
+wordcloud
+pandas
+emoji
+pillow
+textblob
+scikit-learn
+spacy
+emoji_data_python
+statsmodels
+
+
+# pip install pandas fbprophet matplotlib
+
+
+# pip install typing==3.7.4.3
+# pip install --upgrade spacy wasabi
