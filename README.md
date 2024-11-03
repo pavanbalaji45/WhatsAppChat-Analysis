@@ -3,4 +3,5 @@ WhatsApp Chat Analyzer
 
 Access the Application: https://whatsappchatanalyze.streamlit.app/
 Username & password: admin
-[screen-capture (2).webm](https://github.com/user-attachments/assets/651196e8-8722-4d7c-b646-812d154e651b)
+
+[screen-capture (2).webm](https://github.com/user-attachments/assets/f27bf747-6044-484e-8400-ba70ec62a0b6)
